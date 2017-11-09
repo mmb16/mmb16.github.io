@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Why I started coding**"
-date:       2017-11-09 23:40:23 +0000
+date:       2017-11-09 18:40:24 -0500
 permalink:  why_i_started_coding
 ---
 
@@ -26,7 +26,7 @@ With the trends seen above, there is the choice of adapt or become obsolete.
 
 Having studied economics I learned a key principle to improving people’s standard of living.
 
-![](https://media.giphy.com/media/Y8eTQ0dhQ3zd6/giphy.gif)
+![](https://media.giphy.com/media/vng0tKfOhfgYw/giphy.gif)
 
 It’s actually the Cobb Douglas Production Function. ![](https://en.wikipedia.org/wiki/Cobb%E2%80%93Douglas_production_function)
 
