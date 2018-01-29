@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "How to Build a Sinatra CRUD Project"
-date:       2018-01-29 01:43:58 +0000
+date:       2018-01-28 20:43:59 -0500
 permalink:  how_to_build_a_sinatra_crud_project
 ---
 
 
 You'll notice a theme with my blogs for the past few months given the popularity of cryptocurrencies. I'll walk through how to build an ICO tracker with a very basic UI. All the code featured here is on my [github](https://github.com/mmb16/ico_tracker)
 
-**Features **
+**Features**
 
 * User Accounts
 * Create ICOs with ticker, date, whitelist and name
