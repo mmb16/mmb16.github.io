@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Integrity in Ruby in Rails"
-date:       2018-02-10 02:09:06 +0000
+date:       2018-02-09 21:09:07 -0500
 permalink:  data_integrity_in_ruby_in_rails
 ---
 
@@ -100,9 +100,10 @@ ActiveRecord::Schema.define(version: 20180209175749) do
   end
 	...
 	```
-	There are a bunch of change methods you can use within a migration, you can find them [here](http://edgeguides.rubyonrails.org/active_record_migrations.html#using-the-change-method)
+
+There are a bunch of change methods you can use within a migration, you can find them [here](http://edgeguides.rubyonrails.org/active_record_migrations.html#using-the-change-method)
 	
-The reason we use new migration instead of deleting an old table and generating a new one with is because that would comprise the data. With a new project with no data in it, there woud not be an issue. However, if you were editing an exsiting project with hundreds or thousands of users/data already loaded in, you can see how that would upset your users if all there accounts were deleted. 
+The reason we use new migration instead of deleting an old table and generating a new one with is because that would comprise the data. With a new project with no data in it, there would not be an issue. However, if you were editing an existing project with hundreds or thousands of users/data already loaded in, you can see how that would upset your users if all there accounts were deleted. 
 
 If you were to make the edits in the orginal create table migration file after its been migrated they wouldn't be implemented.
 
