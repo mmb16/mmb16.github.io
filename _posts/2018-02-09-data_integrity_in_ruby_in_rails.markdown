@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Data Integrity in Ruby in Rails"
+title:      "Data Integrity in Ruby on Rails"
 date:       2018-02-09 21:09:07 -0500
 permalink:  data_integrity_in_ruby_in_rails
 ---
